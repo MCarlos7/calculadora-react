@@ -1,3 +1,8 @@
+# PROYECTO TEORIA DE COMPUTACION 
+
+USED REACT AND BOOSTRAP 
+(APP.js) <--- La parte importante 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
