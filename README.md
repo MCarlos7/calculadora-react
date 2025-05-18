@@ -3,9 +3,25 @@
 USED REACT AND BOOSTRAP 
 (APP.js) <--- La parte importante 
 
-
+Usamos notacion Postfija para el manejo de operacion y evaluar con esa misma logica  
 
 TRY IT ON -------> [App](https://calculadora-react-ag9wcxmqw-carlos-mariscals-projects.vercel.app/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Getting Started with Create React App
 
